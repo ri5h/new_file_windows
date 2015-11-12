@@ -1,0 +1,2 @@
+# new_file_windows
+use this to create a new file in windows. There is a  shortcut key in windows to create folders but not for a file. suppose you are a developer, you would love to creat many files like php file or css file. This script add a shortcut to easily and quickly create a new file , name it and then it opens it into default appropriate editor. Much faster and bette than doing that with a mouse.
